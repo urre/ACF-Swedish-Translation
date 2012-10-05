@@ -1,4 +1,4 @@
 ACF-Swedish-Translation
 =======================
 
-WordPress Advanced Custom Fields Swedish Translation
+Swedish translation for (Advanced Custom Fields)[http://advancedcustomfields.com/]
